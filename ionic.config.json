@@ -1,0 +1,7 @@
+{
+    "name": "Super Chef",
+    "integrations": {
+        "capacitor": {}
+    },
+    "type": "angular"
+}
